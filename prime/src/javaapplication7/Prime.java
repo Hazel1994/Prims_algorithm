@@ -40,7 +40,7 @@ class Graph {
             distance[i] = Integer.MAX_VALUE;
         }
         for (i = 1; i <= e; i++) {
-            System.out.print("\nEnter the number of first and second vertex and also the value its their edge");
+            System.out.print("\nEnter the number of first and second vertex and also the value of their edge");
             a = g.nextInt();
             b = g.nextInt();
             w = g.nextInt();
