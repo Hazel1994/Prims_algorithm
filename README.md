@@ -14,15 +14,15 @@ to create a the above graph you should enter the following numbers:
 number of vertexes : 4
 number of edges: 5
 
-Enter the number of first and second vertex and also the value of its their edge 1 2 3
+Enter the number of first and second vertex and also the value of  their edge 1 2 3
 
-Enter the number of first and second vertex and also the value of its their edge 1 3 6
+Enter the number of first and second vertex and also the value of  their edge 1 3 6
 
-Enter the number of first and second vertex and also the value of its their edge 1 4 9
+Enter the number of first and second vertex and also the value of  their edge 1 4 9
 
-Enter the number of first and second vertex and also the value of its their edge 2 4 6
+Enter the number of first and second vertex and also the value of  their edge 2 4 6
 
-Enter the number of first and second vertex and also the value of its their edge 3 4 2
+Enter the number of first and second vertex and also the value of  their edge 3 4 2
 
 here is an example of running the program :
 ![Alt text](https://github.com/Hazel1994/Prims_algorithm/blob/master/images/p1.png)
