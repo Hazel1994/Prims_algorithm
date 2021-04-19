@@ -2,8 +2,7 @@
 Prim's algorithm is a greedy algorithm that finds a minimum spanning tree for a weighted undirected graph. This means it finds a subset of the edges that forms a tree that includes every vertex,
 where the total weight of all the edges in the tree is minimized(https://en.wikipedia.org/wiki/Prim%27s_algorithm)
 
-here is the implantation of this algortihm in java.
-I have written it in NetBeans IDE as you can see the packages. 
+here is the implantation of this algortihm in java ( in NetBeans).
 
 when you run the program you will be asked to enter the number of vertexes, edges, and also the value of on each edge.
 lets say you have a graph like this :
@@ -33,5 +32,3 @@ it will also plot an ugly graph of the optimal solution as follows:
 
 ![Alt text](https://github.com/Hazel1994/Prims_algorithm/blob/master/images/p2.png)
 please note that the plot does not work for big graphs.
-
-I would explain the details but i dont remember anything because i wrote it a few years a go. i hope its useful.
